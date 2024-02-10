@@ -4,9 +4,9 @@ from email.message inport EmailMessage
 import ssl
 import smtplib
 
-email_sender = 'codelessearnnore@gmail.com'
+email_sender = '@gmail.com'
 email_password = os.environ.get("EMAIL_PASSWORD")
-email_receiver = 'frank@codelessearnmore.com'
+email_receiver = 'abc@rece.com'
 
 subject = 'Check out my new video'
 body = """
